@@ -8,7 +8,7 @@
 
 ▼麻袋理财四极客
 
-![麻袋理财四极客](https://github.com/MadailicaiTech/blockchain-hackathon/docs/imgs/bc1.jpg)
+![麻袋理财四极客](https://raw.githubusercontent.com/MadailicaiTech/blockchain-hackathon/master/docs/imgs/bc1.jpg)
 
 * 左一: 彭常国 (架构师)
 * 左二: 李明 (架构师)
@@ -17,15 +17,15 @@
 
 麻袋理财派出的技术团队，在三天时间内完成了《全民Bank-去中心化的互联网互助银行》的项目原型，开发出基于区块链的完整存储／借贷APP应用。运用区块链技术解决社区熟人间互助融资问题，目的是降低直接融资的信息不对称。
 
-![麻袋理财四极客](https://github.com/MadailicaiTech/blockchain-hackathon/docs/imgs/bc2.jpg)
+![麻袋理财四极客](https://raw.githubusercontent.com/MadailicaiTech/blockchain-hackathon/master/docs/imgs/bc2.jpg)
 
 经过工程师精心的技术设计，APP演示了丰富的功能，包括：借款/还款；用户直接查看历史记录和不可更改的明细；丰富的借贷统计数据；用户信用记录上传至Factom区块链并永久保存。
 
-![麻袋理财四极客](https://github.com/MadailicaiTech/blockchain-hackathon/docs/imgs/bc3.jpg)
+![麻袋理财四极客](https://raw.githubusercontent.com/MadailicaiTech/blockchain-hackathon/master/docs/imgs/bc3.jpg)
 
 该项目意义重大，首先是借贷不依赖于中央服务器，其次借钱/还钱记录永久公开保存，不可更改，第三是永久公开保存用户信用记录，第四是通过社区互助大大降低了融资成本。
 
-![麻袋理财四极客](https://github.com/MadailicaiTech/blockchain-hackathon/docs/imgs/bc4.jpg)
+![麻袋理财四极客](https://raw.githubusercontent.com/MadailicaiTech/blockchain-hackathon/master/docs/imgs/bc4.jpg)
 
 最终成果获得了评委的一致好评，展示了麻袋理财强大的技术实力。未来，麻袋理财将继续研究并尝试应用区块链技术，实现其巨大的商业价值。
 
